@@ -1,7 +1,7 @@
 <template>
   <div class="text-white">
     <div class="toggle-position"></div>
-    <AppBar /><NavBar />
+    <SampleAppBar /><SampleNavBar />
 
     <slot />
   </div>

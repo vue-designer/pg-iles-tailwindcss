@@ -4,8 +4,8 @@
 
 <template>
   <div>
-    <HeroSection client:load /><CallToAction client:load /><TheFooter
+    <SampleHeroSection client:load /><SampleCallToAction
       client:load
-    />
+    /><SampleTheFooter client:load />
   </div>
 </template>

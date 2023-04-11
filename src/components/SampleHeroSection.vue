@@ -2,7 +2,7 @@
   defineProps({
     name: {
       type: String,
-      default: 'HeroSection',
+      default: 'SampleHeroSection',
     },
   })
 </script>

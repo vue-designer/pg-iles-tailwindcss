@@ -2,7 +2,7 @@
   defineProps({
     name: {
       type: String,
-      default: 'CallToAction',
+      default: 'SampleCallToAction',
     },
   })
 </script>
